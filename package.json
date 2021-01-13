@@ -1,0 +1,23 @@
+{
+  "name": "onsite-challenge",
+  "version": "1.0.0",
+  "description": "PayFit Onsite Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "jest": {
+    "coverageReporters": [
+      "json-summary",
+      "text",
+      "lcov"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jest-coverage-badges": "^1.1.2"
+  }
+}
