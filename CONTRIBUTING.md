@@ -11,7 +11,7 @@ Third-party linter plugins like ESLint, Beautify, Prettier or any other similar 
 
 There are two branches, defined as:
 
-- **main** (Production - _Default_);
+- **master** (Production - _Default_);
 
 Contributions implement the [GitFlow](https://tinyurl.com/zt4vys8) framework.
 Please read about its specifications before commit on any branch.
