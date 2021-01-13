@@ -14,7 +14,7 @@
       "lcov"
     ]
   },
-  "author": "",
+  "author": "Luca Cattide - Senior Frontend Developer <info@lucacattide.dev> | LC (https://lucacattide.dev)",
   "license": "ISC",
   "devDependencies": {
     "jest": "^23.6.0",
